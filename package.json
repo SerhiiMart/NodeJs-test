@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/SerhiiMart/NodeJs-test/issues"
   },
-  "homepage": "https://github.com/SerhiiMart/NodeJs-test#readme"
+  "homepage": "https://github.com/SerhiiMart/NodeJs-test#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
