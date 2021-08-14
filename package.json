@@ -1,0 +1,23 @@
+{
+  "name": "nodetestfirst",
+  "version": "1.0.0",
+  "description": "Node testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiiMart/NodeJs-test.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Serhii Martyniuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerhiiMart/NodeJs-test/issues"
+  },
+  "homepage": "https://github.com/SerhiiMart/NodeJs-test#readme"
+}
