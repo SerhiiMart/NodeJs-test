@@ -10,7 +10,7 @@ const path = require('path')
 //   console.log('Папка создана')
 // })
 
-const filePath = path.join(__dirname, 'test', 'text.txt')
+const filePath = path.join(__dirname, 'testfolder', 'text.txt')
 
 // fs.writeFile(filePath, 'Hello NodeJS!', err => {
 //   if (err) {
