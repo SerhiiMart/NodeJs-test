@@ -4,6 +4,7 @@ const path = require('path')
 const { createServer } = require('tls')
 
 const server = http.createServer((req, res) => {
+  ////~~~~Same thing
   // if (req.url === '/') {
   //   fs.readFile(path.join(__dirname, 'public', 'index.html'), (err, data) => {
   //     if (err) {
