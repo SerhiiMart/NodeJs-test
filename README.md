@@ -2,6 +2,6 @@
 
 ## For testing NodeJS main modules
 
-*fs
-*os
-*path
+* fs
+* os
+* path
