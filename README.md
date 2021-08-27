@@ -1,4 +1,4 @@
-## NodeJs-test
+## NodeJS testing app
 
 ## For testing NodeJS main modules
 
